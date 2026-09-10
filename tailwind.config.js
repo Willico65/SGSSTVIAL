@@ -26,6 +26,18 @@ export default {
           soft: '#e4e9ea',
         },
         line: '#dcd8cb',
+
+        // Paleta corporativa del panel interno (/dashboard) — SGSST Vial.
+        // No se usa en el sitio público, que conserva ink/paper/accent/steel.
+        vial: {
+          primary: '#1E3A8A',
+          secondary: '#F59E0B',
+          success: '#10B981',
+          danger: '#EF4444',
+          bg: '#F8FAFC',
+          surface: '#FFFFFF',
+          text: '#0F172A',
+        },
       },
       fontFamily: {
         display: ['Archivo', 'system-ui', 'sans-serif'],
